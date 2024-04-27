@@ -1,3 +1,10 @@
+---
+layout: landing
+title: "draft JA landing"
+date: 2024-04-27
+---
+
+
 # Pagoda
 
 ## Pagoda の website へようこそ
